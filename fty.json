@@ -875,18 +875,18 @@
   ],
   "lives": [
     {
-      "name": "直播一",
+      "name": "ipv6.txt",
       "type": 0,
-      "url": "你的直播文件链接",
+      "url": "https://github.com/dbmh2023/sets/blob/main/ipv6.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "直播二",
+      "name": "ipv6.152.m3u8",
       "type": 0,
-      "url": "你的直播文件链接",
+      "url": "https://github.com/dbmh2023/sets/blob/main/ipv6.152.m3u8",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
