@@ -8,8 +8,40 @@
         "sourceName": "🌹巧儿🌹",
         "sourceUrl": "http://pandown.pro/tvbox/tvbox.json"
     },
+{
+        "sourceName": "🌹纯一骚零🌹",
+        "sourceUrl": "https://100km.top/0"
+    },
+{
+        "sourceName": "🌹神器🌹",
+        "sourceUrl": "https://神器每日推送.tk/pz.json"
+    },
+{
+        "sourceName": "🌹俊哥🌹",
+        "sourceUrl": "http://home.jundie.top:81/top98.json"
+    },
+{
+        "sourceName": "🌹星云🌹",
+        "sourceUrl": "http://itvbox.cc/tvbox/云星日记/1.m3u8"
+    },
+{
+        "sourceName": "🌹小雅🌹",
+        "sourceUrl": "http://drpy.site/js1"
+    },
+{
+        "sourceName": "🌹FongMi🌹",
+        "sourceUrl": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"
+    },
+{
+        "sourceName": "🌹神仙🌹",
+        "sourceUrl": "http://www.liuyunw.com:88/img"
+    },
+{
+        "sourceName": "🌹业余线路🌹",
+        "sourceUrl": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json"
+    },
     {
-        "sourceName": "🌹☁️大聪明仓库🌹",
-        "sourceUrl": "https://tvbox.cainisi.cf"
+        "sourceName": "🌹☁️PG🌹",
+        "sourceUrl": "https://agit.ai/leevi/PiG/raw/branch/master/jsm.json"
     }]
 }
