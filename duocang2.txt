@@ -1,0 +1,15 @@
+{
+    "storeHouse": [
+    {
+        "sourceName": "🌹饭太硬🌹",
+        "sourceUrl": "http://饭太硬.top/tv"
+    },
+    {
+        "sourceName": "🌹巧儿🌹",
+        "sourceUrl": "http://pandown.pro/tvbox/tvbox.json"
+    },
+    {
+        "sourceName": "🌹☁️大聪明仓库🌹",
+        "sourceUrl": "https://tvbox.cainisi.cf"
+    }]
+}
