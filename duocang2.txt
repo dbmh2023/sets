@@ -1,23 +1,15 @@
 {
     "storeHouse": [
     {
-        "sourceName": "🌹饭太硬🌹",
-        "sourceUrl": "http://饭太硬.top/tv"
+        "sourceName": "🌹主仓库🌹",
+        "sourceUrl": "http://tv.pcoof.com/list.php"
     },
     {
-        "sourceName": "🌹肥猫🌹",
-        "sourceUrl": "http://肥猫.live"
-    },
-{
         "sourceName": "🌹超级仓库🌹",
         "sourceUrl": "https://agit.ai/hu/hcr/raw/branch/master/99668.txt"
     },
-{
-        "sourceName": "🌹蜂蜜🌹",
-        "sourceUrl": "https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json"
-    },
     {
-        "sourceName": "🌹菜妮丝线路🌹",
-        "sourceUrl": "https://tvbox.cainisi.cf"
+        "sourceName": "🌹☁️大聪明仓库🌹",
+        "sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/1.txt"
     }]
 }
